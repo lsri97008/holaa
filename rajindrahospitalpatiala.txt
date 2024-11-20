@@ -1,0 +1,581 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://rajindrahospitalpatiala.com/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<title>Rajindra Hospital Patiala | Government Hospital in Patiala</title>
+<meta name='robots' content='max-image-preview:large' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Rajindra Hospital Patiala &raquo; Feed" href="https://rajindrahospitalpatiala.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Rajindra Hospital Patiala &raquo; Comments Feed" href="https://rajindrahospitalpatiala.com/comments/feed/" />
+<meta content="Divi Child v.3.21.4.1554803176" name="generator"/><style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root { --wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic|Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css' href='https://rajindrahospitalpatiala.com/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://rajindrahospitalpatiala.com/wp-content/themes/Divi/style-static.min.css?ver=4.23.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://rajindrahospitalpatiala.com/wp-content/themes/Divi-child/style.css?ver=4.23.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://rajindrahospitalpatiala.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://rajindrahospitalpatiala.com/wp-json/wp/v2/pages/31" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rajindrahospitalpatiala.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7" />
+<link rel="canonical" href="https://rajindrahospitalpatiala.com/" />
+<link rel='shortlink' href='https://rajindrahospitalpatiala.com/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://rajindrahospitalpatiala.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frajindrahospitalpatiala.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://rajindrahospitalpatiala.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frajindrahospitalpatiala.com%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #1c59a0; }
+</style>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="stylesheet" id="et-core-unified-31-cached-inline-styles" href="https://rajindrahospitalpatiala.com/wp-content/et-cache/31/et-core-unified-31.min.css?ver=1730819807" /><link rel="stylesheet" id="et-core-unified-deferred-31-cached-inline-styles" href="https://rajindrahospitalpatiala.com/wp-content/et-cache/31/et-core-unified-deferred-31.min.css?ver=1730819807" />
+
+<meta name="google-site-verification" content="CBLefwd9aTFUT3euCvuhUXb-oGCqn01S1rjfh_7s74Y" />
+</head>
+<body class="home page-template-default page page-id-31 custom-background et_button_no_icon et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_hide_fixed_logo et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_fade et_header_style_centered et_pb_footer_columns4 et_cover_background et_pb_gutter osx et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="120">
+			<div class="container clearfix et_menu_container">
+							
+				
+				
+				<div class="my-top-cs-header-main">
+				
+				
+				<div class="my-top-cs-header-first">
+					<p>
+						<!-- Widget Shortcode --><div id="text-5" class="widget widget_text widget-shortcode area-arbitrary ">			<div class="textwidget"><div class="cs-sep"></div>
+<ul class="cs-top-part-one">
+<li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel: 0175 221 2542">0175 221 2542 </a></li>
+<li><i class="fa fa-ambulance" aria-hidden="true"></i><a style="color: #fff; font-weight: bold; padding: 6px 10px; border-radius: 4px; font-size: 13px; background-color: #c5161d;" href="tel:01752212542">Emergency Call</a></li>
+</ul>
+</div>
+		</div><!-- /Widget Shortcode -->					</p>
+				</div>
+				
+				
+			
+			<div class="my-top-cs-header-two">
+				
+				<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://rajindrahospitalpatiala.com/">
+						<img src="https://rajindrahospitalpatiala.com/wp-content/uploads/2023/03/rajindra-logo.png" alt="Rajindra Hospital Patiala" id="logo" data-height-percentage="90" />
+					</a>
+				</div>
+				
+				</div>
+				
+				
+				<div class="my-top-cs-header-three">
+					<p>
+						<!-- Widget Shortcode --><div id="text-7" class="widget widget_text widget-shortcode area-arbitrary ">			<div class="textwidget"><div class="cs-sep"></div>
+<ul class="cs-top-part-two">
+<li><a style="color: #1c59a0;" href="https://www.google.com/maps/place/Rajindra+Hospital+Patiala/@30.3291548,76.3842767,15z/data=!4m5!3m4!1s0x0:0xab9eccd20f905b2d!8m2!3d30.3291548!4d76.3842767" target="_blank" rel="noopener"><i class="fa fa-map-marker" aria-hidden="true"></i>Sangrur Road, Patiala,<br />
+Punjab 147001</a></li>
+<li style="color:#1c59a0;"><i class="fa fa-id-badge" aria-hidden="true"></i>National Identification Number<br />
+6342148837</li>
+</ul>
+</div>
+		</div><!-- /Widget Shortcode -->					</p>
+				</div>
+				
+					
+				</div>
+				
+				
+							<div id="et-top-navigation" data-height="120" data-fixed-height="120">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-31 current_page_item menu-item-34"><a href="https://rajindrahospitalpatiala.com/" aria-current="page">Home</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://rajindrahospitalpatiala.com/about-us/">About Us</a></li>
+<li id="menu-item-835" class="mega-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-835"><a href="#">Departments</a>
+<ul class="sub-menu">
+	<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://rajindrahospitalpatiala.com/departments/blood-bank/">Blood Bank</a></li>
+	<li id="menu-item-707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-707"><a href="https://rajindrahospitalpatiala.com/departments/gynae/">Gynae</a></li>
+	<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739"><a href="https://rajindrahospitalpatiala.com/departments/new-emergency/">New Emergency</a></li>
+	<li id="menu-item-675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-675"><a href="https://rajindrahospitalpatiala.com/departments/radiotherapy/">Radiotherapy</a></li>
+	<li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-721"><a href="https://rajindrahospitalpatiala.com/departments/de-addiction/">De Addiction</a></li>
+	<li id="menu-item-746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-746"><a href="https://rajindrahospitalpatiala.com/departments/icu/">ICU</a></li>
+	<li id="menu-item-781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-781"><a href="https://rajindrahospitalpatiala.com/departments/opd/">OPD</a></li>
+	<li id="menu-item-663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-663"><a href="https://rajindrahospitalpatiala.com/departments/general-surgery/">Surgery</a></li>
+	<li id="menu-item-766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href="https://rajindrahospitalpatiala.com/departments/dialysis/">Dialysis</a></li>
+	<li id="menu-item-749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-749"><a href="https://rajindrahospitalpatiala.com/departments/iccu/">ICCU</a></li>
+	<li id="menu-item-671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-671"><a href="https://rajindrahospitalpatiala.com/departments/orthopaedics/">Orthopaedics</a></li>
+	<li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-713"><a href="https://rajindrahospitalpatiala.com/departments/skin-vd/">Skin &#038; VD</a></li>
+	<li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="https://rajindrahospitalpatiala.com/departments/eye/">Eye</a></li>
+	<li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-732"><a href="https://rajindrahospitalpatiala.com/departments/labor-room-ot/">Labor Room &#038; OT</a></li>
+	<li id="menu-item-762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762"><a href="https://rajindrahospitalpatiala.com/departments/operation-theater/">Operation Theater</a></li>
+	<li id="menu-item-758" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758"><a href="https://rajindrahospitalpatiala.com/departments/special-room/">Special Room</a></li>
+	<li id="menu-item-661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-661"><a href="https://rajindrahospitalpatiala.com/departments/ent/">ENT</a></li>
+	<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a href="https://rajindrahospitalpatiala.com/departments/medicine/">Medicine</a></li>
+	<li id="menu-item-672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-672"><a href="https://rajindrahospitalpatiala.com/departments/paediatric-surgery/">Paediatric</a></li>
+	<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-726"><a href="https://rajindrahospitalpatiala.com/departments/swine-flu-and-dengue/">Swine flu and Dengue</a></li>
+	<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-735"><a href="https://rajindrahospitalpatiala.com/departments/emergency-and-ward-no-1/">Emergency and Ward no. 1</a></li>
+	<li id="menu-item-700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-700"><a href="https://rajindrahospitalpatiala.com/departments/nicu-picu/">NICU &#038; PICU</a></li>
+	<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-716"><a href="https://rajindrahospitalpatiala.com/departments/psychiatry/">Psychiatry</a></li>
+	<li id="menu-item-677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-677"><a href="https://rajindrahospitalpatiala.com/departments/urology/">Urology</a></li>
+	<li id="menu-item-772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://rajindrahospitalpatiala.com/departments/eeg/">EEG</a></li>
+	<li id="menu-item-729" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-729"><a href="https://rajindrahospitalpatiala.com/departments/nursery/">Nursery</a></li>
+	<li id="menu-item-755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755"><a href="https://rajindrahospitalpatiala.com/departments/plastic-surgery/">Plastic Surgery</a></li>
+	<li id="menu-item-769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-769"><a href="https://rajindrahospitalpatiala.com/departments/x-ray/">X-Ray</a></li>
+	<li id="menu-item-775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a href="https://rajindrahospitalpatiala.com/departments/endo-scopy/">Endo Scopy</a></li>
+</ul>
+</li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://rajindrahospitalpatiala.com/price-list/">Price List</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://rajindrahospitalpatiala.com/events-program/">Events/Program</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://rajindrahospitalpatiala.com/rti/">RTI</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="https://rajindrahospitalpatiala.com/gallery/">Gallery</a></li>
+<li id="menu-item-832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-832"><a href="https://rajindrahospitalpatiala.com/tenders-quotation/">Tenders/Quotation</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://rajindrahospitalpatiala.com/staff-faculty/">Staff/Faculty</a></li>
+<li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="https://rajindrahospitalpatiala.com/departments/blood-bank/">Blood Bank</a></li>
+<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://rajindrahospitalpatiala.com/contact-us/">Contact Us</a></li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://rajindrahospitalpatiala.com/">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-31" class="post-31 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_fullwidth_slider_0 et_pb_slider">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_slide_0 et_pb_bg_layout_light et_pb_slide_with_image et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_0">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						<div class="et_pb_slide_image"><img loading="lazy" decoding="async" width="50" height="50" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/side.png" alt="" class="wp-image-341" /></div>
+						<div class="et_pb_slide_description">
+							<h2 class="et_pb_slide_title"><a href="/about-us/"> </a></h2><div class="et_pb_slide_content"><p><span style="color: #c5161d;">Hospital in Your City</span><br /> Thank you for your trust in us<br /> Always Care<br /> Always Here</p></div>
+							<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_more_button" href="/about-us/">View More...</a></div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			
+				</div>
+				
+			</div>
+			
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h2 style="line-height: 1em;">About Us</h2></div>
+			</div><div class="et_pb_module et_pb_divider et_pb_divider_0 et_animated et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h5>Welcome to Rajindra Hospital Patiala</h5>
+<p>Famous Rajindra hospital was built in 1954. It is linked with The Government Medical College. Rajindra Hospital is a major hospital in Punjab. Hospital offers so many services to patients. It has a specialized staff for Surgery, Ultrasonography, Obstetrics, Radiotherapy and Plastic Surgery. Mata Kaushalaya Devi Hospital which was formed in 1890 as a Lady Dufferin Hospital provides support to Rajindra Hospital.</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img fetchpriority="high" decoding="async" width="1107" height="800" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/gg.jpg" alt="" title="" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/gg.jpg 1107w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/gg-300x217.jpg 300w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/gg-768x555.jpg 768w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/gg-1024x740.jpg 1024w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/gg-1080x780.jpg 1080w" sizes="(max-width: 1107px) 100vw, 1107px" class="wp-image-390" /></span>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1>Specialities</h1></div>
+			</div><div class="et_pb_module et_pb_divider et_pb_divider_1 et_animated et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_2 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="500" height="313" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/surgery-79584_1920.jpg" alt="" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/surgery-79584_1920.jpg 500w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/surgery-79584_1920-300x188.jpg 300w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/surgery-79584_1920-400x250.jpg 400w" sizes="auto, (max-width: 500px) 100vw, 500px" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-402" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Surgical</span></h4>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 my-cs-btn et_pb_bg_layout_light" href="/departments/general-surgery/" data-icon="&#x24;">View All </a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="500" height="313" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/medical-79584_1920.jpg" alt="" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/medical-79584_1920.jpg 500w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/medical-79584_1920-300x188.jpg 300w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/medical-79584_1920-400x250.jpg 400w" sizes="auto, (max-width: 500px) 100vw, 500px" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-405" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Medical</span></h4>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 my-cs-btn et_pb_bg_layout_light" href="/departments/medicine/" data-icon="&#x24;">View All </a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img loading="lazy" decoding="async" width="500" height="313" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/investigative-79584_1920.jpg" alt="" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/investigative-79584_1920.jpg 500w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/investigative-79584_1920-300x188.jpg 300w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/investigative-79584_1920-400x250.jpg 400w" sizes="auto, (max-width: 500px) 100vw, 500px" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-407" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Investigative</span></h4>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 my-cs-btn et_pb_bg_layout_light" href="/contact-us/" data-icon="&#x24;">View All </a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_3 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1>Gallery</h1></div>
+			</div><div class="et_pb_module et_pb_divider et_pb_divider_2 et_animated et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_4 et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_gallery et_pb_gallery_0  et_pb_bg_layout_light et_pb_gallery_grid">
+				<div class="et_pb_gallery_items et_post_gallery clearfix" data-per_page="4"><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_0">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27-1.jpg" title="3d25d3d4-de48-4d82-ba70-739005f3da27">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27-1-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27-1.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27-1-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-382" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_1">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a-1.jpg" title="4db7a5fb-16c6-44b1-9c45-93b3d0cae57a">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a-1-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a-1.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a-1-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-383" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_2">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b-2.jpg" title="5bea1210-2fb8-4124-ae29-38af6667fb2b">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b-2-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b-2.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b-2-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-384" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_3">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7-1.jpg" title="5407d59d-93a0-4f7d-8d24-9d9401d417f7">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7-1-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7-1.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7-1-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-385" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_4">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27.jpg" title="3d25d3d4-de48-4d82-ba70-739005f3da27">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/3d25d3d4-de48-4d82-ba70-739005f3da27-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-131" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_5">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7.jpg" title="5407d59d-93a0-4f7d-8d24-9d9401d417f7">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5407d59d-93a0-4f7d-8d24-9d9401d417f7-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-141" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_6">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b.jpg" title="5bea1210-2fb8-4124-ae29-38af6667fb2b">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/5bea1210-2fb8-4124-ae29-38af6667fb2b-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-138" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div><div class="et_pb_gallery_item et_pb_grid_item et_pb_bg_layout_light et_pb_gallery_item_0_7">
+				<div class='et_pb_gallery_image landscape'>
+					<a href="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a.jpg" title="4db7a5fb-16c6-44b1-9c45-93b3d0cae57a">
+					<img loading="lazy" decoding="async" width="400" height="284" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a-400x284.jpg" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a.jpg 479w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/4db7a5fb-16c6-44b1-9c45-93b3d0cae57a-400x284.jpg 480w" sizes="auto, (max-width:479px) 479px, 100vw" class="wp-image-135" />
+					<span class="et_overlay"></span>
+				</a>
+				</div></div></div></div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="text-2" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><p><a href="https://rajindrahospitalpatiala.com"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-48" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/logo-1-300x81.png" alt="" width="300" height="81" srcset="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/logo-1-300x81.png 300w, https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/logo-1.png 331w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><br />
+Famous Rajindra hospital was built in 1954. It is linked with The Government Medical College. Rajindra Hospital is a major hospital in Punjab. Hospital offers so many services to patients.</p>
+</div>
+		</div></div><div class="footer-widget"><div id="nav_menu-2" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">Quick Links</h4><div class="menu-bottom-menu-container"><ul id="menu-bottom-menu" class="menu"><li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://rajindrahospitalpatiala.com/emergency/">Emergency</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="https://rajindrahospitalpatiala.com/staff-faculty/">Staff/Faculty</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="https://rajindrahospitalpatiala.com/gallery/">Gallery</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://rajindrahospitalpatiala.com/rti/">RTI</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://rajindrahospitalpatiala.com/tb-hospital/">TB Hospital</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://rajindrahospitalpatiala.com/price-list/">Price List</a></li>
+</ul></div></div></div><div class="footer-widget"><div id="text-6" class="fwidget et_pb_widget widget_text"><h4 class="title">Location</h4>			<div class="textwidget"><p><iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13775.06657408598!2d76.3842767!3d30.3291548!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xab9eccd20f905b2d!2sRajindra+Hospital+Patiala!5e0!3m2!1sen!2sin!4v1554960154742!5m2!1sen!2sin" height="220px" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+</div>
+		</div></div><div class="footer-widget"><div id="custom_html-2" class="widget_text fwidget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"> <div style="float: left; width: 100%; margin-top: 10px;">
+<div class="left1"><div class="left1"> <i class="fa fa-map-marker"></i>
+	</div></div>
+<div class="right1">Sangrur Road, Patiala, Punjab 147001</div>
+</div>
+<div style="float: left; width: 100%; margin-top: 10px; margin-bottom:20px;">
+<div class="left1"> <i class="fa fa-phone" aria-hidden="true"></i></div>
+<div class="right1"><a href="tel::0175 221 2542">0175 221 2542</a><br></div>
+</div> 
+<div style="float: left; width: 100%; margin-top: 10px; margin-bottom:20px;">
+	<i class="fa fa-envelope-o" aria-hidden="true"></i><a href="/cdn-cgi/l/email-protection#83f1e2e9eaede7f1e2ebecf0f3eaf7e2efc3fae2ebececade0ecee"><span class="__cf_email__" data-cfemail="0b796a6162656f796a6364787b627f6a674b726a63646425686466">[email&#160;protected]</span></a></div>
+
+
+
+<a class="emergency-btn-cs" href="/contact-us/">Emergency Contact</a></div></div><div id="text-4" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><ul class="cs-icon">
+<li><a href="#"><img loading="lazy" decoding="async" src="https://rajindrahospitalpatiala.com/wp-content/uploads/2019/04/instagram1.png" alt="" width="60" height="60" class="alignnone size-full wp-image-158" /></a></li>
+<li><a href="#"><img loading="lazy" decoding="async" src="/wp-content/uploads/2019/04/youtube1.png" alt="" width="60" height="60" class="alignnone size-medium wp-image-161" /></a></li>
+<li><a href="#"><img loading="lazy" decoding="async" src="/wp-content/uploads/2019/04/twitter1.png" alt="" width="60" height="60" class="alignnone size-medium wp-image-160" /></a></li>
+<li><a href="#"><img loading="lazy" decoding="async" src="/wp-content/uploads/2019/04/skype-logo1.png" alt="" width="60" height="60" class="alignnone size-medium wp-image-159" /></a></li>
+</ul>
+</div>
+		</div></div>	</div>
+</div>
+
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info"><p class="foot-boot">Copyright (C) Rajindra Hospital Patiala @2023</p></div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_divider_0","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_0","style":"zoomRight","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"6%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_divider_1","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_divider_2","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+				</script>
+	<script type="text/javascript">
+(function($) {
+      
+    function setup_collapsible_submenus() {
+        var $menu = $('#mobile_menu'),
+            top_level_link = '#mobile_menu .menu-item-has-children > a';
+             
+        $menu.find('a').each(function() {
+            $(this).off('click');
+              
+            if ( $(this).is(top_level_link) ) {
+                $(this).attr('href', '#');
+            }
+              
+            if ( ! $(this).siblings('.sub-menu').length ) {
+                $(this).on('click', function(event) {
+                    $(this).parents('.mobile_nav').trigger('click');
+                });
+            } else {
+                $(this).on('click', function(event) {
+                    event.preventDefault();
+                    $(this).parent().toggleClass('visible');
+                });
+            }
+        });
+    }
+      
+    $(window).load(function() {
+        setTimeout(function() {
+            setup_collapsible_submenus();
+        }, 700);
+    });
+ 
+})(jQuery);
+</script><link rel='stylesheet' id='so-css-Divi-css' href='https://rajindrahospitalpatiala.com/wp-content/uploads/so-css/so-css-Divi.css?ver=1559892978' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://rajindrahospitalpatiala.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7' type='text/css' media='none' onload="media='all'" />
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/rajindrahospitalpatiala.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/rajindrahospitalpatiala.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/rajindrahospitalpatiala.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"7533d9138a","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"5ab533e4dd","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"31","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/rajindrahospitalpatiala.com\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2a93c9","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.23.1" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.23.1" id="fitvids-js"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-includes/js/comment-reply.min.js?ver=6.7" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.23.1" id="jquery-mobile-js"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.23.1" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.23.1" id="easypiechart-js"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.23.1" id="salvattore-js"></script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.23.1" id="et-core-common-js"></script>
+<script type="text/javascript" id="et-builder-modules-script-motion-js-extra">
+/* <![CDATA[ */
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/motion-effects.js?ver=4.23.1" id="et-builder-modules-script-motion-js"></script>
+<script type="text/javascript" id="et-builder-modules-script-sticky-js-extra">
+/* <![CDATA[ */
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://rajindrahospitalpatiala.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js?ver=4.23.1" id="et-builder-modules-script-sticky-js"></script>
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.5.2 on 2024-11-20 13:44:03 -->
